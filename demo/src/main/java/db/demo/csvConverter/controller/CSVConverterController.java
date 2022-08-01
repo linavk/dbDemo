@@ -21,7 +21,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
  * this program functions as is but there are some obvious next steps that could be taken to improve it such as:
  * automated tests
  * more precise error messages to the user
- * have more flexibility in what the filepath looks like
+ * have more flexibility in what the file path looks like
  * 
  */
 
