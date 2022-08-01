@@ -1,0 +1,12 @@
+PLC;RL100-Code;RL100-Langname;RL100-Kurzname;Typ Kurz;Typ Lang;Betriebszustand;Datum ab;Datum bis;Niederlassung;Regionalbereich;Letzte Änderung
+DE14378;AAMP;Hamburg Anckelmannsplatz;Anckelmannsplatz;ÜST;Üst;Betrieb;20200401;;2;Nord;20201029
+DE10370;AAMS;Aumühle (S-Bahn);Aumühle (S-Bahn);BF;Bf;a.B.;20201001;;9;S-Bahn Hamburg GmbH;20201028
+DE24954;AAN;Hamburg-Altona (neu);Hmb-Altona (neu);BF;Bf;Planung;20200401;;2;Nord;20201029
+;AAPL;Apeler;Apeler;NE-BF;NE-Bf;Betrieb;20130904;;0;Ost;20200701
+;AAPS;Apensen;Apensen;NE-BF;NE-Bf;Betrieb;20090401;;0;Ost;20200701
+;AAPSB;Apensen BHE;Apensen BHE;MUSE;Museum;Betrieb;20030116;;0;BHE-Bahn Apelin GmbH;20200701
+DE14409;AAR;Hamburg Rainweg;Rainweg;ABZW;Abzw;Betrieb;20200401;;2;Nord;20201029
+;AARF;Ahrensfelde (Bz Bremen);Ahrensfelde/Brm;NE-BF;NE-Bf;Betrieb;20081214;;0;B-Bahn Ahrlin GmbH;20200701
+DE21742;AARG;Ahrensburg-Gartenholz (S-Bahn);Ahrensb-Gartenh;BF;Bf;Planung;20201001;;9;S-Bahn Hamburg GmbH;20201028
+DE21743;AARGF;Ahrensburg-Gartenholz (Fernbahn);Ahrensb-Gh Fernb;;Bft Abzw;Planung;20200401;;2;Nord;20201029
+DE21744;AARS;Ahrensburg (S-Bahn);Ahrensbg S-Bahn;BF;Bf;Planung;20201001;;9;S-Bahn Hamburg GmbH;20201028
